@@ -1,0 +1,11 @@
+[
+    {
+        "isbn": "123",
+        "title": "Django new blog",
+        "author": "aziz",
+        "description": "this is django app where y",
+        "published_date": "10-10-10",
+        "publisher": "ayan",
+        "update_date": "10-10-10"
+    }
+]
